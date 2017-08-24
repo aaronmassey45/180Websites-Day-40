@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css?family=VT323');
+
+body {
+  background: black;
+  color: white;
+  height: 100%
+}
+
+.Circle {
+  width: 15%;
+  padding: 15%;
+  border-radius: 50%;
+  float: left;
+  opacity: .6;
+}
+
+.colors {
+  position: relative;
+  top: 50%;
+  left: 18%;
+}
+
+.Count {
+  margin: auto;
+  font-family: 'VT323', monospace;
+  color: #DC0D29;
+  padding: 0px;
+  font-size: 2em;
+  width: 70px;
+  background-color: #32050C;
+  border: 4px solid #222;
+  border-radius: 20px;
+}
+
+#red {
+
+}
